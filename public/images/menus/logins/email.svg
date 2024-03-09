@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="17.5"
+   height="12"
+   viewBox="0 0 4.6302082 3.1749999"
+   version="1.1"
+   id="svg3461"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="email.svg">
+  <defs
+     id="defs3455" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="18.260803"
+     inkscape:cy="8.9534085"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px" />
+  <metadata
+     id="metadata3458">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-293.825)">
+    <g
+       transform="matrix(1.3329349,0,0,1.3333333,-1900.5932,1840.2244)"
+       id="g3423">
+      <polygon
+         transform="matrix(0.18317307,0,0,0.18317307,1424.6771,-1161.5397)"
+         style="fill:#dddddd;fill-opacity:1"
+         points="11.707,15.291 6.518,12.119 6.518,21.815 "
+         id="polygon2293" />
+      <polygon
+         transform="matrix(0.18317307,0,0,0.18317307,1424.6771,-1161.5397)"
+         style="fill:#dddddd;fill-opacity:1"
+         points="12.472,15.758 7.11,22.5 24.867,22.5 19.5,15.746 15.989,17.908 "
+         id="polygon2295" />
+      <polygon
+         transform="matrix(0.18317307,0,0,0.18317307,1424.6771,-1161.5397)"
+         style="fill:#dddddd;fill-opacity:1"
+         points="25.482,9.5 6.518,9.5 6.518,11.076 15.988,16.864 25.482,11.017 "
+         id="polygon2297" />
+      <polygon
+         transform="matrix(0.18317307,0,0,0.18317307,1424.6771,-1161.5397)"
+         style="fill:#dddddd;fill-opacity:1"
+         points="25.482,21.843 25.482,12.062 20.263,15.276 "
+         id="polygon2299" />
+    </g>
+  </g>
+</svg>

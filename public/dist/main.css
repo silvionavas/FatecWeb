@@ -1,0 +1,73 @@
+a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.container {
+  background-color:#1A1A1A ;
+  display: flex; /* Use o flexbox para alinhar os elementos lado a lado */
+  justify-content: space-between; /* Distribui os itens igualmente ao longo do eixo principal */
+}
+
+.bars {
+  display: inline-block; /* Exibe os elementos lado a lado */
+}
+
+
+
+.mainBar {
+  background-color:#1A1A1A ;
+}
+
+.accessibilityMenu-item {
+  display: inline-block; /* Exibe os itens lado a lado */
+  margin-right: 10px; /* Adapte a margem conforme necessário */
+}
+
+.accessibilityMenu {
+  list-style: none; /* Remove os marcadores de lista */
+}
+
+.accessibilityMenu-item:last-child {
+  margin-right: 0;
+}
+
+.loginsMenu {
+  list-style: none; /* Remove os marcadores de lista */
+}
+
+.loginsMenu-item {
+  display: inline-block; /* Exibe os itens lado a lado */
+  margin-right: 10px; /* Adapte a margem conforme necessário */
+  color: #FFFFFF;
+}
+
+.loginsMenu-item:last-child {
+  margin-right: 0; /* Remove a margem do último item */
+}
+
+.loginsMenu-link {
+  text-decoration: none; /* Remove o sublinhado */
+  color: inherit; /* Adota a cor do texto do elemento pai */
+}
+
+.menu-item, .menu-item--vestibular  {
+  display: inline-block; /* Exibe os itens lado a lado */
+  margin-right: 10px; /* Adapte a margem conforme necessário */
+}
+
+.menu-item--vestibular {
+  background-color:#af2525 ;
+  padding: 10px;
+}
+
+.menu-item--vestibular:hover {
+  background-color:#822121 ;
+}
+
+
+
+
+
+
+
